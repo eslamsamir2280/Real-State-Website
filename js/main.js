@@ -118,7 +118,6 @@ const sr = ScrollReveal({
   distance: "60px",
   duration: 2500,
   delay: 400,
-  reset: true
 });
 sr.reveal(
   ".home-title, .popular__container , .subscribe--container , .footer__container"
